@@ -18,7 +18,7 @@
 ## 📸 效果展示 (Before & After)
 
 ### 1. 儿童趣味线稿
-针对 3-6 岁儿童优化，轮廓极简，方便孩子控制画笔。
+针对 3-6 岁儿童优化，轮廓极简，方便孩子控制画笔
 | 示例 1 | 示例 2 |
 | :--- | :--- |
 | ![儿童涂色](https://img.sipingseo.com/file/coloring-lineart-generator/HRJSiWZu.webp) | ![卡通汽车](https://img.sipingseo.com/file/coloring-lineart-generator/70sEUKdp.webp) |

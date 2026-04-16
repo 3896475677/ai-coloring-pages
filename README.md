@@ -5,7 +5,7 @@
 [![Tool-Type](https://img.shields.io/badge/Category-Creative%20Design-orange)](#)
 [![License](https://img.shields.io/badge/License-Commercial%20Free-green)](#)
 
-[HANYUAI 填色线稿生成工具](https://www.sipingseo.com/zh/line-art-generator/coloring-lineart-generator) 是一款领先的免费在线 AI 绘图助理。它能智能将任何图片、摄影或文字描述转换为干净的黑白线稿，专为儿童启蒙涂色、成人减压着色书制作、手工设计及艺术创作而设计。无需任何绘画基础，10秒内即可获取高清、专业级的涂色素材。
+[HANYUAI 填色线稿生成工具](https://www.sipingseo.com/zh/line-art-generator/coloring-lineart-generator) 是一款领先的免费在线 AI 绘图助理。它能智能将任何图片、摄影或文字描述转换为干净的黑白线稿，专为儿童启蒙涂色、成人减压着色书制作、手工设计及艺术创作而设计。无需任何绘画基础，10秒内即可获取高清、专业级的涂色素材
 
 ## ✨ 核心功能与应用场景
 

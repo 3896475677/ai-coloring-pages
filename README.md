@@ -24,7 +24,7 @@
 | ![儿童涂色](https://img.sipingseo.com/file/coloring-lineart-generator/HRJSiWZu.webp) | ![卡通汽车](https://img.sipingseo.com/file/coloring-lineart-generator/70sEUKdp.webp) |
 
 ### 2. 成人减压曼陀罗
-线条细腻流畅，层次分明，专为追求高难度涂色的成人用户定制。
+线条细腻流畅，层次分明，专为追求高难度涂色的成人用户定制
 | 精致曼陀罗 | 花卉对称纹样 |
 | :--- | :--- |
 | ![曼陀罗1](https://img.sipingseo.com/file/coloring-lineart-generator/ruJ9gjqa.webp) | ![曼陀罗2](https://img.sipingseo.com/file/coloring-lineart-generator/7BKNopRl.webp) |

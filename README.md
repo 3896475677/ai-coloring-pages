@@ -30,7 +30,7 @@
 | ![曼陀罗1](https://img.sipingseo.com/file/coloring-lineart-generator/ruJ9gjqa.webp) | ![曼陀罗2](https://img.sipingseo.com/file/coloring-lineart-generator/7BKNopRl.webp) |
 
 ### 3. 自然与动植物
-保留写实纹理，线条表现力强，赋予作品专业插画质感。
+保留写实纹理，线条表现力强，赋予作品专业插画质感
 | 玫瑰花卉 | 动物写生 |
 | :--- | :--- |
 | ![玫瑰线稿](https://img.sipingseo.com/file/coloring-lineart-generator/xZgrd4me.webp) | ![猫头鹰线稿](https://img.sipingseo.com/file/coloring-lineart-generator/Ytffy5oB.webp) |
